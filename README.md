@@ -1,5 +1,5 @@
 # FSM_CharacterController2D
-A "one touch" 2D final state machine character controller I wrote for my game Safari Forever.
+A "one touch" 2D finite state machine character controller I wrote for my game Safari Forever.
 
 Notable states include:
 
